@@ -1,0 +1,12 @@
+body {
+    color:blanchedalmond;
+    background: blueviolet;
+    margin: 2px;
+}
+
+header {
+    border-bottom:solid 2px rgb(45, 212, 162);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(45, 212, 162);
+ }
